@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-dmytrotruten.vercel.app](portfolio-dmytrotruten.vercel.app)
 
-- 📫 How to reach me **dmitriy2503a@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dmytro-truten-950b2826a/" target="blank"><img align="center" src="./linkedin-icon.svg" height="40" width="40" /></a>
