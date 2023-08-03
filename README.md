@@ -1,5 +1,19 @@
+<h1 align="center">Hi 👋, I'm Dmytro</h1>
+<h3 align="center">A passionate self-taught frontend developer</h3>
 
-# 💻 Tech Stack:
+- 👨‍💻 All of my projects are available at [portfolio-dmytrotruten.vercel.app](portfolio-dmytrotruten.vercel.app)
+
+- 📫 How to reach me **dmitriy2503a@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dmytro-truten-950b2826a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmytro-truten-950b2826a/" height="30" width="40" /></a>
+<a href="https://t.me/scratch_ed" target="blank"><img align="center" src="./telegram-icon.svg" alt="https://t.me/scratch_ed" height="30" width="40" /></a>
+<a href="https://instagram.com/scratch_ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@scratch_ed" height="30" width="40" /></a>
+</p>
+
+## 💻 Tech Stack:
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="2" />
@@ -36,7 +50,8 @@
 
 ###
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DmytroTruten&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=DmytroTruten&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
@@ -44,4 +59,5 @@
 </div>
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=DmytroTruten&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
