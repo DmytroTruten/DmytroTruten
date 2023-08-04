@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <h3 align="center">A passionate self-taught frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [portfolio-dmytrotruten.vercel.app](portfolio-dmytrotruten.vercel.app)
-
-<h3 align="left">Connect with me:</h3>
+## ⟺ Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/dmytro-truten-950b2826a/" target="blank"><img align="center" src="./linkedin-icon.svg" height="40" width="40" /></a>
+<img width="2" />
 <a href="https://t.me/scratch_ed" target="blank"><img align="center" src="./tg-icon.svg" alt="https://t.me/scratch_ed" height="40" width="40" /></a>
+<img width="2" />
 <a href="https://instagram.com/scratch_ed" target="blank"><img align="center" src="./instagram-icon.svg" alt="@scratch_ed" height="40" width="40" /></a>
 </p>
 
