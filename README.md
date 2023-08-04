@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dmytro-truten-950b2826a/" target="blank"><img align="center" src="./linkedin-icon.svg" height="40" width="40" /></a>
-<a href="https://t.me/scratch_ed" target="blank"><img align="center" src="./telegram-icon.svg" alt="https://t.me/scratch_ed" height="40" width="40" /></a>
+<a href="https://t.me/scratch_ed" target="blank"><img align="center" src="./tg-icon.svg" alt="https://t.me/scratch_ed" height="40" width="40" /></a>
 <a href="https://instagram.com/scratch_ed" target="blank"><img align="center" src="./instagram-icon.svg" alt="@scratch_ed" height="40" width="40" /></a>
 </p>
 
