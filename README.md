@@ -52,7 +52,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=DmytroTruten&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
-## ⟺ Connect with me:
+## 🔃 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/dmytro-truten-950b2826a/" target="blank"><img align="center" src="./linkedin-icon.svg" height="40" width="40" /></a>
 <img width="2" />
