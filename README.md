@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
-<h3 align="center">A passionate self-taught frontend developer</h3>
+<h3 align="center">A passionate self-taught Front-End Developer</h3>
 
 ## 💻 Tech Stack:
 
